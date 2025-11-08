@@ -1,7 +1,8 @@
 
-# Exploring LLM Tokenizers with Hugging Face
+# Comparative Analysis of Large Language Model (LLM) Tokenizers
 
-Welcome to a deep dive into the fundamental building block of Large Language Models (LLMs): **Tokenizers**. This repository contains the Jupyter Notebook, `tokenizers.ipynb`, which provides a hands-on exploration of how raw text is converted into a format that LLMs can understand.
+Conducted an in-depth investigation into the foundational process of LLM tokenization—the critical step of converting human language into numerical data for model processing. Using the Hugging Face transformers library, I systematically analyzed and compared the tokenization strategies, vocabulary structures, and special tokens used by several leading, state-of-the-art language models. This project moved beyond surface-level API calls to demystify the core data pipeline that underpins all modern generative AI.
+
 
 This notebook demystifies the process of tokenization, revealing the crucial "Aha!" moment that bridges the gap between human language and the numerical sequences that power modern AI.
 
